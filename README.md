@@ -52,8 +52,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/MPX1-1/MPX1-1/output/snake.svg" alt="Snake animation" />
 
 ###

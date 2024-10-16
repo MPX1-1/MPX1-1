@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Ahmed Hossam, a skilled developer 💻 based in Egypt 🇪🇬 with a passion for creating innovative and efficient solutions 🚀. I specialize in [mention your key areas of expertise, e.g., web development, backend systems, etc.] and am always eager to collaborate on exciting projects 🤝.
+<h2 align="left">Hi 👋! I'm Ahmed Hossam, a skilled developer 💻 based in Egypt 🇪🇬 with a passion for creating innovative and efficient solutions 🚀 and am always eager to collaborate on exciting projects 🤝.
 
 </h2>
 
